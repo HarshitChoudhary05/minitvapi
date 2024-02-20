@@ -1,0 +1,38 @@
+{
+  "hustlers": {
+    "Seasons1": {
+      "episode1": {
+        "name": "E1 | Misfit",
+        "cover": "https://m.media-amazon.com/images/S/pv-target-images/db34067fcee909cdfe8fa967314f9ddc5f1c85241d760db347034cd721d387f4.__SX1008__SY567__QL60__._TTH_.jpg",
+        "url": "https://d3s0ximcru5bdx.cloudfront.net/sazu-series2-exclusive-s1e1-1706177375954/dash/sazu-series2-exclusive-s1e1.mpd"
+      },
+      "episode2": {
+        "name": "E2 | Insult",
+        "cover": "https://m.media-amazon.com/images/S/pv-target-images/7af0400e3c364fc86c03c6413b8a848c2b65e171456ea94f04d6ad268012b2f5.__SX1008__SY567__QL60__._TTH_.jpg",
+        "url": "https://d3s0ximcru5bdx.cloudfront.net/sazu-series2-exclusive-s1e2-1705997127384/dash/sazu-series2-exclusive-s1e2.mpd"
+      },
+      "episode3": {
+        "name": "E3 | Revenge",
+        "cover": "https://m.media-amazon.com/images/S/pv-target-images/f0fea9b8b9de0606633db3619fec3e70f886172fc98262418f50bc153e953620.__SX1008__SY567__QL60__._TTH_.jpg",
+        "url": "https://d3s0ximcru5bdx.cloudfront.net/sazu-series2-exclusive-s1e3-1705997127381/dash/sazu-series2-exclusive-s1e3.mpd"
+      }
+    },
+    "Seasons2": {
+      "episode1": {
+        "name": "E1 | Test1",
+        "cover": "https://m.media-amazon.com/images/S/pv-target-images/db34067fcee909cdfe8fa967314f9ddc5f1c85241d760db347034cd721d387f4.__SX1008__SY567__QL60__._TTH_.jpg",
+        "url": "https://d3s0ximcru5bdx.cloudfront.net/sazu-series2-exclusive-s1e1-1706177375954/dash/sazu-series2-exclusive-s1e1.mpd"
+      },
+      "episode2": {
+        "name": "E2 | Test2",
+        "cover": "https://m.media-amazon.com/images/S/pv-target-images/7af0400e3c364fc86c03c6413b8a848c2b65e171456ea94f04d6ad268012b2f5.__SX1008__SY567__QL60__._TTH_.jpg",
+        "url": "https://d3s0ximcru5bdx.cloudfront.net/sazu-series2-exclusive-s1e2-1705997127384/dash/sazu-series2-exclusive-s1e2.mpd"
+      },
+      "episode3": {
+        "name": "E3 | Test3",
+        "cover": "https://m.media-amazon.com/images/S/pv-target-images/7af0400e3c364fc86c03c6413b8a848c2b65e171456ea94f04d6ad268012b2f5.__SX1008__SY567__QL60__._TTH_.jpg",
+        "url": "https://d3s0ximcru5bdx.cloudfront.net/sazu-series2-exclusive-s1e2-1705997127384/dash/sazu-series2-exclusive-s1e2.mpd"
+      }
+    }
+  }
+}
