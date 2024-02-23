@@ -1,0 +1,37 @@
+{
+    "crushed": {
+        "Seasons1": {
+            "17657054-7313-4731-a157-6ab00757f88a": {
+                "name": "17657054-7313-4731-a157-6ab00757f88a",
+                "cover": "https://m.media-amazon.com/images/S/pv-target-images/82e50a8c97b45823dac52d325d27430990783245216d00ea10d35de0a85c2090.jpg",
+                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e1-1703766343848/hls/dicemedia-exclusive-crushed-s1e1.m3u8"
+            },
+            "09b24b17-c68b-4dc2-a0ed-d5cf89d2691c": {
+                "name": "09b24b17-c68b-4dc2-a0ed-d5cf89d2691c",
+                "cover": "https://m.media-amazon.com/images/S/pv-target-images/19805e020d3bb3703fbb7a00136bacf7bfd62becdf105121b1b1ca2e532fcce1.jpg",
+                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e2-1658293946875/hls/dicemedia-exclusive-crushed-s1e2.m3u8"
+            },
+            "cd50510c-6e08-42eb-87f2-673dd1df4425": {
+                "name": "cd50510c-6e08-42eb-87f2-673dd1df4425",
+                "cover": "https://m.media-amazon.com/images/S/pv-target-images/09613633f4a8c429281e023f61a200582f97654723b7e6b935c0ff7b00a8f9bf.jpg",
+                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e3-1658294301285/hls/dicemedia-exclusive-crushed-s1e3.m3u8"
+            },
+            "4c213a24-b85c-488a-965d-ee1cbcaee4b4": {
+                "name": "4c213a24-b85c-488a-965d-ee1cbcaee4b4",
+                "cover": "https://m.media-amazon.com/images/S/pv-target-images/f1967ce77b6d64d7d5093b274ccede0a663064830c69ceb94b4a64940c49ab6f.jpg",
+                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e4-1658294661547/hls/dicemedia-exclusive-crushed-s1e4.m3u8"
+            },
+            "4a4533b2-854a-4096-8e75-5987f309e53c": {
+                "name": "4a4533b2-854a-4096-8e75-5987f309e53c",
+                "cover": "https://m.media-amazon.com/images/S/pv-target-images/2f42e474f3aef0e2f888ec7974b456380526c57784a9f6a9b7c9fa9a820fd487.jpg",
+                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e5-1658294673761/hls/dicemedia-exclusive-crushed-s1e5.m3u8"
+            },
+            "08067852-3542-4b0a-af5d-b91315721fa2": {
+                "name": "08067852-3542-4b0a-af5d-b91315721fa2",
+                "cover": "https://m.media-amazon.com/images/S/pv-target-images/2e63b0bfe0ba519712bd42fdf9d80aef31c2dd587eb368cd20a1035dd522b024.jpg",
+                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e6-1658294886703/hls/dicemedia-exclusive-crushed-s1e6.m3u8"
+            }
+        }
+    }
+}
+
