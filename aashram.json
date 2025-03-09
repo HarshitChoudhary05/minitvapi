@@ -46,13 +46,7 @@
                 "cover": "https://qqcdnpictest.mxplay.com/pic/d1465c8d9a209295b78bd5fb54c0e117/en/16x9/640x360/08e4e3ed254e1ae5fe01aade646222fd_1920x1080.png",
                 "url": "https://d3sgzbosmwirao.cloudfront.net/video/c7a5282925235f1090e01f0b3640a26e1e8f5a5ed2eb22b0df67bbd286fb1727/2/hls/h264_high.m3u8"
             }
-        },
-"Seasons2": {
-            "episode1": {
-                  "name": "E1 | Ek Badnaam Aashram",
-                 "cover": "https://qqcdnpictest.mxplay.com/pic/4b481d9c589e5aa4ea92bacc35949ebf/en/16x9/640x360/4f2b339a415489b390776ae7bbd714d1_1920x1080.jpg",
-             "url": "https://d3sgzbosmwirao.cloudfront.net/video/9688e4948212e4104211358e6a5eed40cb9d0d1310fb9f8e126577e73593f906/1/hls/h264_high.m3u8"
-            },
+        }
         
     }
 }
