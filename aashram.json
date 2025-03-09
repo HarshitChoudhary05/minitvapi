@@ -52,7 +52,14 @@
                   "name": "E1 ",
                  "cover": "https://qqcdnpictest.mxplay.com/pic/a27d0095cc646c7b0fde0825ca570f9c/en/16x9/640x360/0feebac6d29deb9b4732834901d0cdbb_1920x1080.jpg",
              "url": "https://d3sgzbosmwirao.cloudfront.net/video/ccbe88f70fdf2c1603f4b4b475cd62258afb3f2f06194d44ca950434864eb9f6/4/hls/h264_high.m3u8"
-            }
+            },
+
+         "episode2": {
+                  "name": "E2 ",
+                 "cover": "https://qqcdnpictest.mxplay.com/pic/3a75974801b953fd43a0937a42bf37a4/en/16x9/640x360/09e5494a9769efe9f5ac6923eff03671_1920x1080.jpg",
+             "url": "https://d3sgzbosmwirao.cloudfront.net/video/fd05ce482ce1721600dd7395d705786841ebfb0f8f9d43f30dc7c55a079a7262/3/hls/h264_high.m3u8"
+            },
+        
         
     }
         
