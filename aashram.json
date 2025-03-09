@@ -7,29 +7,44 @@
              "url": "https://d3sgzbosmwirao.cloudfront.net/video/9688e4948212e4104211358e6a5eed40cb9d0d1310fb9f8e126577e73593f906/1/hls/h264_high.m3u8"
             },
             "episode2": {
-                "name": "E2 | Crime and Punishment",
-                "cover": "https://m.media-amazon.com/images/S/pv-target-images/19805e020d3bb3703fbb7a00136bacf7bfd62becdf105121b1b1ca2e532fcce1.jpg",
-                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e2-1658293946875/hls/dicemedia-exclusive-crushed-s1e2.m3u8"
+                "name": "E2 | ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/17391c2bfc858ea29ac5abb6851323db/en/16x9/640x360/21f44c70907c352f871b4914e1e0e375_1920x1080.png",
+                "url": "https://d3sgzbosmwirao.cloudfront.net/video/f07c49cb19f0b99afca425f5996febfd5577d06e17612d5a5c8136ddde43c202/1/hls/h264_high.m3u8"
             },
             "episode3": {
-                "name": "E3 | Bulati Hai Magar…",
-                "cover": "https://m.media-amazon.com/images/S/pv-target-images/09613633f4a8c429281e023f61a200582f97654723b7e6b935c0ff7b00a8f9bf.jpg",
-                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e3-1658294301285/hls/dicemedia-exclusive-crushed-s1e3.m3u8"
+                "name": "E3 | ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/d445579792b0135598ba1bc9088a84cb/en/16x9/640x360/41d0d4800ce8dd0af7c48bc840913663_1920x1080.png",
+                "url": "https://d3sgzbosmwirao.cloudfront.net/video/3c0e1745c3b1781914476796dfd92b5da1bc9e36b55d2d80c80f7dfdc1e776ef/1/hls/h264_high.m3u8"
             },
             "episode4": {
-                "name": "E4 | Maa Ki Aankh",
-                "cover": "https://m.media-amazon.com/images/S/pv-target-images/f1967ce77b6d64d7d5093b274ccede0a663064830c69ceb94b4a64940c49ab6f.jpg",
-                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e4-1658294661547/hls/dicemedia-exclusive-crushed-s1e4.m3u8"
+                "name": "E4 ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/8d957d1f1086653a748fe56b87eb55a2/en/16x9/640x360/3031301b9fd60e3ad3e43c47f6d99f92_1920x1080.png",
+                "url": https://d3sgzbosmwirao.cloudfront.net/video/5c313c5051931f5d49802dc54772f6b55f428463b7fd69ca61ea436f02aa2f89/1/hls/h264_high.m3u8"
             },
             "episode5": {
-                "name": "E5 | Mera Pehla Pehla Valentine Hai",
-                "cover": "https://m.media-amazon.com/images/S/pv-target-images/2f42e474f3aef0e2f888ec7974b456380526c57784a9f6a9b7c9fa9a820fd487.jpg",
-                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e5-1658294673761/hls/dicemedia-exclusive-crushed-s1e5.m3u8"
+                "name": "E5 ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/7661b2cc206cd239ac4750f3a78accd0/en/16x9/640x360/6f7668b26a8d9897e3101e7475d7078d_1920x1080.png",
+                "url": "https://d3sgzbosmwirao.cloudfront.net/video/ac46100d04cd28b939c7ac766d898768ec11fd1807bae675225c9f2850582ed7/1/hls/h264_high.m3u8"
             },
             "episode6": {
-                "name": "E6 | Final Exam",
-                "cover": "https://m.media-amazon.com/images/S/pv-target-images/2e63b0bfe0ba519712bd42fdf9d80aef31c2dd587eb368cd20a1035dd522b024.jpg",
-                "url": "https://d3s0ximcru5bdx.cloudfront.net/dicemedia-exclusive-crushed-s1e6-1658294886703/hls/dicemedia-exclusive-crushed-s1e6.m3u8"
+                "name": "E6 ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/ea394a5d89f996969d4667d8ec8841a0/en/16x9/640x360/2b4c5fad77ecc06bca1294996270ef73_1920x1080.png",
+                "url": "https://d3sgzbosmwirao.cloudfront.net/video/544d2936ae46bdec812bc4d1da6b9750af1c176c177e58513d6d89e9f237bf0b/1/hls/h264_high.m3u8"
+            },
+            "episode7": {
+                "name": "E7 ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/9851649d7b92e9cfb0cd0a89c9a8efdc/en/16x9/640x360/83d535a682d79402d6fa80e1db8f6072_1920x1080.png",
+                "url": "https://d3sgzbosmwirao.cloudfront.net/video/2400461a24bfe8f7d0ebbe8630a2e2335ff757a74aab99855f734a271c7dc5a3/1/hls/h264_high.m3u8""
+            },
+            "episode8": {
+                "name": "E8 ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/dfd8f18c6d4ca1c0bdb0ab4eadaf64e0/en/16x9/640x360/317b6b697b8faae15a012dab9f6bc3e9_1920x1080.png",
+                "url": "https://d3sgzbosmwirao.cloudfront.net/video/a0012acf2058e4ebb52f82e22303ddf9e7a2b74da964b1e96fdfe780a53acb2a/2/hls/h264_high.m3u8"
+            },
+            "episode9": {
+                "name": "E9 ",
+                "cover": "https://qqcdnpictest.mxplay.com/pic/d1465c8d9a209295b78bd5fb54c0e117/en/16x9/640x360/08e4e3ed254e1ae5fe01aade646222fd_1920x1080.png",
+                "url": "https://d3sgzbosmwirao.cloudfront.net/video/c7a5282925235f1090e01f0b3640a26e1e8f5a5ed2eb22b0df67bbd286fb1727/2/hls/h264_high.m3u8"
             }
         }
     }
